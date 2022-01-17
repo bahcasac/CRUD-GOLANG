@@ -16,7 +16,5 @@
 .env
 .idea
 .vscode
-.DS_Store
-.DS_Store?
 
 cover.*
