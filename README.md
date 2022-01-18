@@ -1,4 +1,4 @@
-# Reast API em GOLANG
+# Rest API em GOLANG
 <p>🚀 Projeto de estudo sobre a liguagem Go com uma API Rest e banco de dados MySQL</p>
 
 ## Para rodar o projeto 
