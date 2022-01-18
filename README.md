@@ -31,6 +31,9 @@ $ git clone <https://github.com/bahcasac/CRUD-GOLANG.git>
 # Acesse a pasta raiz do projeto
 $ cd CRUD-GOLANG
 
+# Configurando o seu ambiente
+$ cp .env.sample .env
+
 # Rode o comando de execução no arquivo `main.go`
 $ go run main.go
 
